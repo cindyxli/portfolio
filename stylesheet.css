@@ -1,30 +1,31 @@
 @import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
 
 #header {
-font-family: 'Questrial', sans-serif;
+  font-family: 'Questrial', sans-serif;
 }
 
 .navbar {
-        overflow: hidden;
-        background-color: #724B7C;
-      }
+  overflow: hidden;
+  background-color: #A4B4DE;
+}
 
-      .navbar2 a {
-        float: left;
-        display: block;
-        color: #FFFFFF;
-        text-align: center;
-        padding: 14px 16px;
-        text-decoration: none;
-        font-size: 16px;
-      }
+.navbar a {
+  float: left;
+  display: block;
+  color: #FFFFFF;
+  text-align: center;
+  padding: 14px 16px;
+  font-size: 16px;
+}
 
-      .navbar2 a:hover {
-        background-color: #FFA2B4;
-        color: #000000;
-      }
+.navbar a:hover {
+  background-color: #7581D0;
+  color: #FFFFFF;
+}
 
-      .navbar2 a.active {
-        background-color: #FFFFFF;
-        color: Black;
-      }
+.navbar a.active {
+  background-color: #FFFFFF;
+  color: Black;
+}
+    
+        
