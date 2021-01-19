@@ -41,6 +41,12 @@
   margin-bottom: 0px;
 }
 
+.label {
+  display: block;
+  color: #FFFFFF;
+  text-align: center;
+}
+
 .container {
   height: 100vh;
   width: 100%;
