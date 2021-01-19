@@ -44,6 +44,7 @@ body {
 
 .labels {
   margin-bottom: 0px;
+  position: relative;
 }
 
 .label {
@@ -52,6 +53,7 @@ body {
   color: #000000;
   text-align: center;
   font-family: 'Questrial', sans-serif;
+  top: 300px;
 }
 
 .container {
