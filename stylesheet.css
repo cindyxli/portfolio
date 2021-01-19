@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
 
+body {
+  background-color: #E7EDF7
+}
+
+
 #header {
   font-family: 'Questrial', sans-serif;
 }
