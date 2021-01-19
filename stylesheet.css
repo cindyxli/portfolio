@@ -45,10 +45,18 @@
    
 #gdgroup {
   height: 50vh;
+  text-align: center;
 }
 
 #illgroup {
   height: 50vh;
+  text-align: center;
+}
+
+#gd {
+}
+
+#ill {
 }
 
         
