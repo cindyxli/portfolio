@@ -74,6 +74,7 @@ body {
   text-align: center;
   font-family: 'Questrial', sans-serif;
   text-decoration: none;
+  position: relative;
   top: 300px;
 }
 
