@@ -4,6 +4,10 @@ body {
   background-color: #E7EDF7;
 }
 
+html {
+  font-size: 1rem;
+}
+
 
 #header {
   font-family: 'Questrial', sans-serif;
